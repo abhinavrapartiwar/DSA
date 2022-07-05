@@ -18,7 +18,6 @@ int permutation(string p, string u)
 }
 int main()
 {
-    cout << permutation("", "abc") << endl;
-    ;
+    cout << permutation("", "abcd") << endl;
     return 0;
 }
